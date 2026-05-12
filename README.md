@@ -157,6 +157,7 @@ fun BasicsCodelabTheme(
 
 ##  运行结果
 
-*（运行结果截图）*
+![compose界面效果](479F3388FC6D2602189A39919AF82F90.png)
+![compose界面效果](51A642CAC59B77B70613BFB4FF6FBF72.png)
 
 > **说明**：应用启动后，显示两个问候卡片，点击 "Show more" 按钮可以展开卡片显示更多内容，点击 "Show less" 则收起。卡片使用Material Design 3的Surface组件，具有阴影效果和圆角设计。
